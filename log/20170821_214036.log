@@ -1,0 +1,50 @@
+Log created by Cleveridge SSH Scanner - V0.04 build 019
+
+Checking configuration status
+Tool started : 2017/08/21 - 21:40:36
+
+Local IP : 10.8.8.89
+Visible IP : 68.235.53.29
+Selected Method : Scan IP's from file
+
+Selected File : data/ssh.txt
+
+*****************************
+Scanning IP : 79.170.44.157
+Port 22 (SSH) is accessible.
+Stopped due to blocked by victim
+Tried 1 combinations
+
+*****************************
+Scanning IP : 83.223.106.10
+Port 22 (SSH) is accessible.
+Stopped due to blocked by victim
+Tried 1 combinations
+
+*****************************
+Scanning IP : 31.193.4.27
+Port 22 (SSH) is closed.
+
+*****************************
+Scanning IP : 95.142.152.194
+Port 22 (SSH) is closed.
+
+*****************************
+Scanning IP : 134.213.14.102
+Port 22 (SSH) is closed.
+
+*****************************
+Scanning IP : 185.119.173.129
+Port 22 (SSH) is closed.
+
+*****************************
+Scanning IP : 185.119.173.36
+Port 22 (SSH) is closed.
+
+*****************************
+Scanning IP : 185.119.173.57
+Port 22 (SSH) is closed.
+
+*****************************
+Scanning IP : 46.193.227.230
+Port 22 (SSH) is accessible.
